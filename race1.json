@@ -11,7 +11,7 @@
         "race": "Bretons",
         "advantage": "start with 25 in Conjuration",
         "abilities": {
-            "satu": ["Dragonskin", "Absorb 50% of magicka from hostile spells for 60 seconds."],
+            "satu": ["Dragonskin", "Absorb 50 percent of magicka from hostile spells for 60 seconds."],
             "dua": ["Magic Resistance", "Breton blood grants a 25 percent resistance to magic."]
         }
     },
