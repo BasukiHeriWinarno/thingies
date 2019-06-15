@@ -1,0 +1,26 @@
+[
+    {
+        "name": "empus",
+        "species": "cat",
+        "foods": {
+            "likes": ["tuna", "catnip"],
+            "dislikes": ["ham", "cucumber"]
+        }
+    },
+    {
+        "name": "dukduk",
+        "species": "dog",
+        "foods": {
+            "likes": ["bones", "carrots"],
+            "dislikes": ["tuna", "fence"]
+        }
+    },
+    {
+        "name": "neinei",
+        "species": "horse",
+        "foods": {
+            "likes": ["grass", "corn"],
+            "dislikes": ["nuts", "bolts"]
+        }
+    }
+]
