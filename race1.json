@@ -14,7 +14,8 @@
             "satu": ["Dragonskin", "Absorb 50% of magicka from hostile spells for 60 seconds."],
             "dua": ["Magic Resistance", "Breton blood grants a 25% resistance to magic."]
         }
-    }, {
+    }, 
+    {
         "race": "Dark Elf (Dunmer)",
         "advantage": "start with 25 in Destruction",
         "abilities": {
