@@ -3,23 +3,23 @@
         "race": "Argonians",
         "advantage": "start with 25 in Lockpicking",
         "abilities": {
-            "1": ["Histskin", "Invoke the power of the Hist to recover health ten times faster for 60 seconds."],
-            "2": ["Resist Disease", "Your Argonian blood is 50% resistant to disease."]
+            "satu": ["Histskin", "Invoke the power of the Hist to recover health ten times faster for 60 seconds."],
+            "dua": ["Resist Disease", "Your Argonian blood is 50% resistant to disease."]
         }
     },
     {
         "race": "Bretons",
         "advantage": "start with 25 in Conjuration",
         "abilities": {
-            "1": ["Dragonskin", "Absorb 50% of magicka from hostile spells for 60 seconds."],
-            "2": ["Magic Resistance", "Breton blood grants a 25% resistance to magic."]
+            "satu": ["Dragonskin", "Absorb 50% of magicka from hostile spells for 60 seconds."],
+            "dua": ["Magic Resistance", "Breton blood grants a 25% resistance to magic."]
         }
     }, {
         "race": "Dark Elf (Dunmer)",
         "advantage": "start with 25 in Destruction",
         "abilities": {
-            "1": ["Ancestor’s Wrath", "For 60 seconds, opponents that get too close take 8 points per second of fire damage."],
-            "2": ["Resist Fire", "Your Dunmer blood gives you 50% resistance to fire."]
+            "satu": ["Ancestor’s Wrath", "For 60 seconds, opponents that get too close take 8 points per second of fire damage."],
+            "dua": ["Resist Fire", "Your Dunmer blood gives you 50% resistance to fire."]
         }
     },
 
