@@ -16,7 +16,7 @@
         }
     },
     {
-        "race": "Dark Elf (Dunmer)",
+        "race": "Dark Elf - Dunmer",
         "advantage": "start with 25 in Destruction",
         "abilities": {
             "satu": ["Ancestor’s Wrath", "For 60 seconds, opponents that get too close take 8 points per second of fire damage."],
