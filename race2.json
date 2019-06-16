@@ -3,24 +3,23 @@
         "race": "High Elf (Altmer)",
         "advantage": "start with 25 in Illusion",
         "abilities": {
-            "1": ["Highborn", "Regenerate magicka faster for 60 seconds."],
-            "2": ["Magicka Raz", "High Elves are born with 50 extra magicka."]
+            "satu": ["Highborn", "Regenerate magicka faster for 60 seconds."],
+            "dua": ["Magicka Raz", "High Elves are born with 50 extra magicka."]
         }
     },
     {
         "race": "Imperial",
         "advantage": "start with 25 in Restoration",
         "abilities": {
-            "1": ["Voice of the Emperor", "Calms nearby people for 60 seconds.."],
-            "2": ["Imperial Luck", "Anywhere gold coins might be found, Imperials always seem to find a few more."]
+            "satu": ["Voice of the Emperor", "Calms nearby people for 60 seconds.."],
+            "dua": ["Imperial Luck", "Anywhere gold coins might be found, Imperials always seem to find a few more."]
         }
     }, {
         "race": "Khajiit",
         "advantage": "start with 25 in Sneak",
         "abilities": {
-            "1": ["Night Eye", "Improved night vision for 60 seconds."],
-            "2": ["Claws", "Khajiit claws do 15 points of damage."]
+            "satu": ["Night Eye", "Improved night vision for 60 seconds."],
+            "dua": ["Claws", "Khajiit claws do 15 points of damage."]
         }
-    },
-
+    }
 ]
