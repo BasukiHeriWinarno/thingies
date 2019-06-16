@@ -4,7 +4,7 @@
         "advantage": "start with 25 in Two-handed",
         "abilities": {
             "satu": ["Battle Cry", "Target flees for 30 seconds."],
-            "dua": ["Resist Frost", "Your Nord blood gives you 50% resistance to frost."]
+            "dua": ["Resist Frost", "Your Nord blood gives you 50 percent resistance to frost."]
         }
     },
     {
@@ -12,14 +12,15 @@
         "advantage": "start with 25 in One-handed",
         "abilities": {
             "satu": ["Adrenaline Rush", "Stamina regenerates 10x faster for 60 seconds."],
-            "dua": ["Magic Poison", "Your Redguard blood gives you 50% resistance to poison."]
+            "dua": ["Magic Poison", "Your Redguard blood gives you 50 percent resistance to poison."]
         }
-    }, {
+    }, 
+    {
         "race": "Wood Elves",
         "advantage": "start with 25 in Archery",
         "abilities": {
             "satu": ["Command Animal", "Make an animal an ally for 60 seconds."],
-            "dua": ["Resist Disease and Poison", "Your Bosmer blood gives you 50% resistance to poison and disease."]
+            "dua": ["Resist Disease and Poison", "Your Bosmer blood gives you 50 percent resistance to poison and disease."]
         }
     }
 ]
